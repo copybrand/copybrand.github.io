@@ -6,7 +6,7 @@
     "links": [
         {
             "label": "(Jessica) WhatsApp: +8615815865857",
-            "url": "https://wa.me/8615815865857"
+            "url": "https://api.whatsapp.com/send/?phone=8615815865857"
         },      
         {
             "label": "(Jessica) WhatsApp: +8615815865857",
