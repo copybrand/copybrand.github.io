@@ -1,0 +1,37 @@
+{
+    "site_title": "极简Linktree实现",
+    "site_description": "Linktree的纯静态实现，简单易用，纯展示，无其他交互功能，方便部署到任何支持纯静态托管的平台，比如Github Pages。",
+    "site_logo": "https://ugc.production.linktr.ee/kaXOvNxPTaWURBaWUE7q_on0R0jh45XoejA94?io=true&size=avatar-v3_0",
+    "site_icon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico",
+    "links": [
+        {
+            "label": "Twitter",
+            "url": "https://twitter.com/musk"
+        },
+        {
+            "label": "Facebook",
+            "url": "https://facebook.com/trump"
+        },
+        {
+            "label": "Youtube.com",
+            "url": "https://youtube.com/trump"
+        },
+        {
+            "label": "Whatsapp",
+            "url": "https://whatsapp.com/it205"
+        },
+        {
+            "label": "Instagram.com",
+            "url": "https://instagram.com/trump"
+        },
+        {
+            "label": "Yupoo",
+            "url": "https://yupoo.com/test"
+        },
+        {
+            "label": "Custom Customer Reviews on WhatsApp Customer Reviews on WhatsApp Customer Reviews on WhatsApp",
+            "url": "https://custom.com",
+            "image": "https://ugc.production.linktr.ee/fZjQ22sR1a7twpLr1lDY_y8-PTBaP90a.png?io=true&size=thumbnail-stack-v1_0"
+        }
+    ]
+}
