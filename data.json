@@ -1,16 +1,16 @@
 {
-    "site_title": "极简Linktree实现",
+    "site_title": "是滴是滴是的问",
     "site_description": "Linktree的纯静态实现，简单易用，纯展示，无其他交互功能，方便部署到任何支持纯静态托管的平台，比如Github Pages。",
     "site_logo": "https://ugc.production.linktr.ee/kaXOvNxPTaWURBaWUE7q_on0R0jh45XoejA94?io=true&size=avatar-v3_0",
     "site_icon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon.ico",
     "links": [
         {
-            "label": "Twitter",
-            "url": "https://twitter.com/musk"
+            "label": "baidu",
+            "url": "https://baidu.com/musk"
         },
         {
-            "label": "Facebook",
-            "url": "https://facebook.com/trump"
+            "label": "google 1234234scsdsdsd",
+            "url": "https://google.com/trump"
         },
         {
             "label": "Youtube.com",
